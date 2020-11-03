@@ -1,6 +1,6 @@
 {
   "name": "random-names-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a little package what i created for learn npm",
   "main": "src/index.js",
   "scripts": {},
