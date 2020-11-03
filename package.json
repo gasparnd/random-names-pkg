@@ -1,11 +1,9 @@
 {
   "name": "random-names-pkg",
   "version": "1.0.0",
-  "description": "random names",
+  "description": "This is a little package what i created for learn npm",
   "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js"
-  },
+  "scripts": {},
   "keywords": [
     "javascript",
     "node",
@@ -14,7 +12,15 @@
   "author": "Gaspar Dolcemascolo <gaspardolcemascolo@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-names": "./bin/global.js"
+    "random-names": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasparnd/random-names-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gasparnd/random-names-pkg/issues"
+  },
+  "homepage": "https://github.com/gasparnd/random-names-pkg#readme"
 }
