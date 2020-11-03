@@ -1,4 +1,4 @@
-# random-messages
+# random-names
 
 This is a little package what i created for learn npm
 
@@ -8,7 +8,7 @@ This is a little package what i created for learn npm
 npm install -g random-names-pkg
 ```
 
-# Usage
+## Usage
 
 ```bash
 random-names
@@ -16,5 +16,5 @@ random-names
 
 
 
-# License
+## License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
